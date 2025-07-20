@@ -1,1 +1,10 @@
-# LibraryProject 
+"# LibraryProject - Django Application" 
+"## ALX Django Learning Project" 
+"### Project Structure" 
+"- manage.py: Django command-line utility" 
+"- LibraryProject/: Main project package" 
+"  - settings.py: Project configuration" 
+"  - urls.py: URL routing" 
+"### Installation" 
+"1. Run 'python manage.py migrate'" 
+"2. Start server with 'python manage.py runserver'" 
